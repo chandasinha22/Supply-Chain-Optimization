@@ -39,7 +39,7 @@ Key focus areas:
 - Matplotlib  
 - Scikit-learn  
 - PuLP  
-- Jupyter Notebook / Google Colab  
+- Google Colab  
 
 ---
 
